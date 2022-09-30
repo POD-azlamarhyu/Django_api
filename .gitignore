@@ -1,0 +1,4 @@
+.env
+.DS_Store
+api/apicfg/env.py
+api/*/__pycache__/
